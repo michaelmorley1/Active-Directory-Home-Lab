@@ -24,17 +24,33 @@ Oracle VirtualBox will be used to create the VM, Windows Server 2019 is used as 
 
 
 <h2> Install Active Directory</h2>
+https://i.imgur.com/01ECgNF.png
 
+https://i.imgur.com/dBlASoK.png
+
+https://i.imgur.com/0NI58Pc.png
 
 
 <h2>Configure NAT/RAS</h2>
 
+https://i.imgur.com/KoD9wU2.png
+
+
+https://i.imgur.com/XzbAJuu.png
 
 
 <h2>Setup DHCP on domain controller</h2>
 
+https://i.imgur.com/JFMoZ9s.png
+
+
+https://i.imgur.com/XA7EHZd.png
+
 
 <h2>Powershell script to create users</h2>
+
+
+
 
 
 
