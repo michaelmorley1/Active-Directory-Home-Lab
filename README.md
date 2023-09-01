@@ -1,7 +1,7 @@
 <h1>Setting Up a Home Lab Running Active Directory</h1>
-This repository contains steps on how I set up a basic home lab running Active Directory on Oracle VirtualBox. Whilst also 
-adding users to it via PowerShell script. This lab helped me gain a greater understanding on how active directory and Windows networking works.
 
+This repository contains steps on how I set up a basic home lab running Active Directory on Oracle VirtualBox whilst also 
+adding users to it via a PowerShell script. 
 
 In order to complete this lab three tools need to be downloaded.
 
@@ -112,5 +112,9 @@ Successfully able to log into the client machine with a domain account taken fro
 <img src="https://i.imgur.com/kByZcQw.png" height="50%" width="50%" alt="Image Analysis Dataflow"/>
 </p>
 
-That completes the setup of an Active Directory home lab.
+That completes the setup of an Active Directory home lab. This lab helped me gain a greater understanding of the following:
+- Active Directory
+- PowerShell
+- Windows Server
+- Virtualization (Oracle VirtualBox)
 
